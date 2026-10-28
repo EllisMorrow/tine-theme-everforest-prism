@@ -8,6 +8,8 @@
 
 Everforest 温润的浅色与深色 medium 色板汇于一套主题，以柔和的林间底色和克制的自然点缀，铺开明暗两面。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![Everforest · Prism 深色模式实拍](docs/everforest-dark.png)
